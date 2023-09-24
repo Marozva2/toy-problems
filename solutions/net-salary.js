@@ -1,0 +1,1 @@
+// this program calculates an individual's net salary by getting the inputs of basic salary and benefits. It calculates the payee (Tax), NHIF Deductions, NSSF Deductions, gross salary, and net salary. 
