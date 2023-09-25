@@ -12,6 +12,8 @@ This repository contains three JavaScript programs: the Speed Calculator, the Gr
 
 The Speed Calculator is designed to calculate demerit points for a car's speed based on user input. It also determines if the driver's license should be suspended if they accumulate more than 12 points.
 
+     > For example, if the speed is 80, it should print: “Points: 2”. If the driver gets more than 12 points, the function should print: “License suspended”.
+
 ### Grade Calculator
 
 The Grade Calculator calculates student grades based on input marks. It assigns grades A, B, C, D, or E according to predefined criteria. We import the 'readline' module to read input from the terminal. We then define a function to calculate the grades.
@@ -22,6 +24,14 @@ The input should be between 0 and 100. The output should correspond the correct 
 ### Net Salary Calculator
 
 The program's major task is to calculate an individual’s Net Salary by getting the inputs of basic salary and benefits. It calculates the payee (i.e. Tax), NHIF Deductions, NSSF Deductions, gross salary, and net salary.
+
+NB: Use KRA, NHIF, and NSSF values provided in the link below.
+
+- https://www.aren.co.ke/payroll/taxrates.htm Links to an external site.
+
+Links to an external site.- Links to an external site.Links to an external site.
+
+- www.kra.go.ke/en/individual/calculate-tax/calculating-tax/payeLinks to an external site.
 
 ## Getting Started
 
@@ -40,6 +50,6 @@ In this README.md file:
 
 - **Title**: "Speed, Grade and Net Salary Calculator".
 - **Description**: A brief description of the repository is provided.
-- **Author**: Frankline Isaboke (Marozva2) - frankline.isaboke@student.moringaschool.com
+- **Author**: Marozva2 - frankline.isaboke@student.moringaschool.com
 - **Setup Instructions**: Instructions for cloning the repository and running the programs are included.
 - **License**: Licensed under the MIT License.
