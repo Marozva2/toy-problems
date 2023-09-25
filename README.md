@@ -27,9 +27,7 @@ The program's major task is to calculate an individual’s Net Salary by getting
 
 NB: Use KRA, NHIF, and NSSF values provided in the link below.
 
-- https://www.aren.co.ke/payroll/taxrates.htm Links to an external site.
-
-Links to an external site.- Links to an external site.Links to an external site.
+- https://www.aren.co.ke/payroll/taxrates.htm
 
 - www.kra.go.ke/en/individual/calculate-tax/calculating-tax/payeLinks to an external site.
 
